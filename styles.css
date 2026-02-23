@@ -22,6 +22,17 @@ h1{
     font-family: "Bariol";
     clear: both;
 }/* pour le titre de la page*/
+h1 a{
+    text-decoration: none;
+    color: black;
+}/* pour le lien du titre de la page*/
+
+h1 a:visited{
+    color: black;
+}/* pour le lien visité du titre de la page*/
+h1 a:hover{
+    color: plum;
+}/* pour le lien du titre de la page au survol*/
 
 nav{
     float: right;
@@ -33,3 +44,13 @@ nav ul li{
     margin-right: 10px;
     font-family: "Bariolthin";
 }/* pour les elements du menu de navigation*/
+nav ul li a{
+    text-decoration: none;
+}/* pour les liens du menu de navigation*/
+
+nav ul li a:visited{
+    color: black;
+}/* pour les liens visités du menu de navigation*/
+nav ul li a:hover{
+    color: plum;
+}/* pour les liens du menu de navigation au survol*/
