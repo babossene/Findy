@@ -23,6 +23,7 @@
 body{
     background: linear-gradient(#FFFF,#b34ef6);
     min-height: 100vh;
+    
 }/* pour le fond de la page et pour que le fond prenne toute la hauteur de la page*/
 
 /* HEADER */
@@ -69,7 +70,7 @@ nav ul li a:hover{
 main{
     clear: both;
     margin-left: 10px;
-}
+}/* pour le contenu principal de la page*/
 h3{
     padding-top: 20px;
     font-size: 60px;

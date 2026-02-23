@@ -1,29 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>SITE INTERNET</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="styles.css">
-
-</head>
-
-<body>
-    <header>
-        <h1><a href="index.html">Findy .</a></h1>
-        <nav>
-            <ul>
-                <li><a href="#">APPLY</a></li>
-                <li><a href="#">ABOUTS</a></li>
-                <li><a href="#">PLACES</a></li>
-            </ul>
-        </nav>
-    </header>
-    <main>
-        <h3>WILL YOU <br> BECOME A <br> PERFEECT HUSBAND?</h3>
-    </main>
-   <svg width="1098" height="791" viewBox="0 0 1098 791" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1098" height="791" viewBox="0 0 1098 791" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="fatherhood 1">
 <g clip-path="url(#clip0)">
 <path id="Vector" opacity="0.1" d="M11.85 429.97C29.21 504.17 65.96 568.31 124.03 599.44C244.74 664.05 516.95 630.72 720.1 592.44C822.756 573.161 915.937 519.896 984.64 441.22L11.85 429.97Z" fill="#6C63FF"/>
@@ -138,9 +113,3 @@
 </clipPath>
 </defs>
 </svg>
-
-    
-</body>
-
-
-</html>
