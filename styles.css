@@ -1,10 +1,35 @@
+
 @font-face{
     font-family:"Bariol";
-    src:url("fonts/bariol.ttf");
-}
+    src:url("fonts/bariolbold.ttf");
+} /*telecharger le police bariol bold*/
+
+
+@font-face{
+    font-family:"Bariol";
+    src:url("fonts/bariolthin.ttf");
+}/*telecharger le police bariol thin*/
+
 *{
     padding: 0;
     margin: 0;
-}
+}/* pour supprimer les marges et les padding par defaut de tous les elements*/
 
 /* HEADER */
+h1{
+    float: left;
+    margin-left: 10px;
+    font-family: "Bariol";
+    clear: both;
+}/* pour le titre de la page*/
+
+nav{
+    float: right;
+    margin-top: 10px;
+}/* pour le menu de navigation*/
+
+nav ul li{
+    display: inline-block;
+    margin-right: 10px;
+    font-family: "Bariolthin";
+}/* pour les elements du menu de navigation*/
