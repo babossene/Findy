@@ -66,3 +66,35 @@ nav ul li a:visited{
 nav ul li a:hover{
     color: plum;
 }/* pour les liens du menu de navigation au survol*/
+
+/*div*/
+.places{
+    clear: both;
+    margin-left: 200px;
+    font-family: "cooper";
+}/* pour le contenu de la page places*/
+
+svg{
+    width: 40%;
+    height: 40%;
+    margin-top: 30px;
+}/* pour les svg de la page places*/
+.svg{
+    margin-left: 10%;
+}
+
+#fleur{
+    animation-name: fleur;
+    animation-duration: 2s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes fleur{
+    from{
+        transform: rotateY(0deg);
+    }
+    to{
+        transform: rotateY(60deg);
+    }
+
+    }

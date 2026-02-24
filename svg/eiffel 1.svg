@@ -1,38 +1,4 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>PLACES</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="places.css">
-
-</head>
-
-<body>
-    <header>
-        <h1><a href="site.html">Findy .</a></h1>
-        <nav>
-            <ul>
-                <li><a href="apply.html">APPLY</a></li>
-                <li><a href="abouts.html">ABOUTS</a></li>
-                <li><a href="places.html">PLACES</a></li>
-            </ul>
-        </nav>
-    </header>
-    
-    <div class="places">
-        PLACES <br>
-        Findy is a company that offers job opportunities in various locations around the world. <br>
-        We are currently hiring in the following locations: <br>
-        - Paris, France <br>
-        - London, United Kingdom <br>
-        - New York, United States <br>
-        - Tokyo, Japan <br>
-    
-</div>
-<div class="svg">
-    <svg width="996" height="828" viewBox="0 0 996 828" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="996" height="828" viewBox="0 0 996 828" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="eiffel 1" clip-path="url(#clip0_4_2)">
 <path id="Vector" d="M929.119 519.612L828.994 567L917.609 500.738C903.207 478.258 887.027 456.967 869.225 437.07L434.994 545L827.227 395.376C809.303 379.562 790.269 365.054 770.269 351.962L108.603 458.539C38.3507 546.389 0.0540841 655.514 0 768H995.987C995.947 680.762 972.881 595.08 929.119 519.612Z" fill="#F2F2F2"/>
 <path id="Vector_2" d="M716.117 321.195C648.184 288.062 573.576 270.893 497.994 271C344.164 271 206.632 340.753 115.283 450.349C271.71 416.074 544.061 356.743 716.117 321.195Z" fill="#F2F2F2"/>
@@ -58,9 +24,3 @@
 </clipPath>
 </defs>
 </svg>
-
-</div>
-</body>
-
-
-</html>
