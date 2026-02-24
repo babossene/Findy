@@ -66,3 +66,53 @@ nav ul li a:visited{
 nav ul li a:hover{
     color: plum;
 }/* pour les liens du menu de navigation au survol*/
+
+.about{
+    clear: both;
+    padding-top: 100px;
+    padding: 20px;
+    text-align: center;
+    font-family: "cooper";
+}/* pour la section apply*/
+
+svg{
+    width: 50%;
+    height: 50%;
+}
+.svg {
+    margin-left: 40px;
+}
+
+#coeur{
+    animation-name: coeur;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes coeur{
+    0%{
+        opacity: 0;
+    }
+    50%{
+        opacity: 0.5;
+    }
+    100%{
+        opacity: 1;
+    }
+}
+
+#firework{
+    animation-name: firework;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;
+}
+@keyframes firework{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+   

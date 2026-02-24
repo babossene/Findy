@@ -1,46 +1,3 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-    <title>APPLY</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <link rel="stylesheet" href="apply.css">
-
-</head>
-
-<body>
-    <header>
-        <h1><a href="site.html">Findy .</a></h1>
-        <nav>
-            <ul>
-                <li><a href="apply.html">APPLY</a></li>
-                <li><a href="abouts.html">ABOUTS</a></li>
-                <li><a href="places.html">PLACES</a></li>
-            </ul>
-        </nav>
-    </header>
-    
-    <div class="apply">
-        APPLICATION AT FINDY <br>
-Documents for your online-application <br>
-You need the following documents for the online application (PDF preferred): <br>
-Curriculum vitae (C.V.) <br>
-Other documents, e.g, diplomas, certificates, overview of grades, graduation diploma (collected to one PDF preferred).<br>
-Please note that a letter of application / cover letter is not mandatory anymore and can be uploaded optionally.<br>
-To speed up the review of your documents, please upload all relevant documents together at the same time.<br>
-Services of our job portal<br>
-The online recruitment tool offers the following services:<br>
-Search for relevant jobs matching your profile<br>
-Add your profile and apply via the online recruitment tool<br>
-Look at and update the information you stored on our system at any time<br>
-Activate the alert system so that you are informed about new openings as they occur.<br>
-Track the status of your online application <br>
-Choose your preferred language<br>
-Send jobs offers via Facebook by using the " tell a friend " function<br>
-Use the contact form and ask questions<br>
-    </div>
-    <div class="svg">
 <svg width="723" height="671" viewBox="0 0 723 671" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g id="barbecue 1" clip-path="url(#clip0_1_51)">
 <path id="Vector" d="M358 670.023C555.718 670.023 716 659.278 716 646.023C716 632.768 555.718 622.023 358 622.023C160.282 622.023 0 632.768 0 646.023C0 659.278 160.282 670.023 358 670.023Z" fill="#3F3D56"/>
@@ -99,9 +56,3 @@ Use the contact form and ask questions<br>
 </clipPath>
 </defs>
 </svg>
-    </div>
-    
-</body>
-
-
-</html>
