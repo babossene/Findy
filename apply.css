@@ -66,39 +66,36 @@ nav ul li a:visited{
 nav ul li a:hover{
     color: plum;
 }/* pour les liens du menu de navigation au survol*/
-
-/* MAIN */
-main{
+/*div*/
+.apply{
     clear: both;
-    margin-left: 10px;
-}/* pour le contenu principal de la page*/
-h3{
-    padding-top: 20px;
-    font-size: 60px;
+    padding-top: 50px;
+    padding: 20px;
+    text-align: center;
     font-family: "cooper";
-}/* pour les titres des sections du main*/
-
+}
+/*svg*/
 svg{
-    width: 80%;
-    height: 80%;
-}/* pour les images svg du main*/
-
+    width: 25%;
+    height: 25%;
+}
 .svg{
-    margin-top: -150px;/* pour remonter les images svg du main*/
-    margin-left: 500px;/* pour centrer les images svg du main*/
-}/* pour centrer les images svg du main*/
-
-#skate{
-    animation-name: skate;
+    margin-left: 100px;
+}
+#barbec{
+    animation-name: barbec;
     animation-duration: 4s;
     animation-iteration-count: infinite;
     animation-timing-function: ease-in-out;
 }
-@keyframes skate{
-    from{
-        transform: rotateY(0);
+@keyframes barbec{
+    0%{
+        opacity: 0;
     }
-    to{
-        transform: rotateY(25deg);
+    50%{
+        opacity: 0.5;
+    }
+    100%{
+        opacity: 1;
     }
 }
