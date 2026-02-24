@@ -1,0 +1,68 @@
+
+@font-face{
+    font-family:"Bariol";
+    src:url("fonts/bariolbold.ttf");
+} /*telecharger le police bariol bold*/
+
+
+@font-face{
+    font-family:"Bariol";
+    src:url("fonts/bariolthin.ttf");
+}/*telecharger le police bariol thin*/
+
+@font-face{
+    font-family:"cooper";
+    src:url("fonts/cooperm.ttf");
+}/*telecharger le police cooper medium*/
+
+*{
+    padding: 0;/* pour supprimer les marges et les padding par defaut de tous les elements*/
+    margin: 0;/* pour supprimer les marges et les padding par defaut de tous les elements*/
+}/* pour supprimer les marges et les padding par defaut de tous les elements*/
+
+body{
+    background: linear-gradient(#FFFF,#b34ef6);/* pour le fond de la page*/
+    min-height: 100vh;/* pour que le fond prenne toute la hauteur de la page*/
+    
+}/* pour le fond de la page et pour que le fond prenne toute la hauteur de la page*/
+
+/* HEADER */
+h1{
+    float: left;/* pour le titre de la page*/
+    margin-left: 10px;/* pour le titre de la page*/
+    margin-top: 10px;/* pour la taille du titre de la page*/
+    font-family: "Bariol";
+    clear: both;
+}/* pour le titre de la page*/
+h1 a{
+    text-decoration: none;/* pour le lien du titre de la page sans decoration*/
+    color: black;
+}/* pour le lien du titre de la page*/
+
+h1 a:visited{
+    color: black;
+}/* pour le lien visité du titre de la page*/
+h1 a:hover{
+    color: plum;
+}/* pour le lien du titre de la page au survol*/
+
+nav{
+    float: right;
+    margin-top: 10px;
+}/* pour le menu de navigation*/
+
+nav ul li{
+    display: inline-block;
+    margin-right: 10px;
+    font-family: "Bariolthin";
+}/* pour les elements du menu de navigation*/
+nav ul li a{
+    text-decoration: none;
+}/* pour les liens du menu de navigation*/
+
+nav ul li a:visited{
+    color: black;
+}/* pour les liens visités du menu de navigation*/
+nav ul li a:hover{
+    color: plum;
+}/* pour les liens du menu de navigation au survol*/
